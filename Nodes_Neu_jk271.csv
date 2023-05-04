@@ -1,0 +1,26 @@
+id,name,party,sector,type
+UVDL,Ursula von der Leyen,CDU,Politik,2
+LK,Lars Klingbeil,SPD,Politik,2
+NR,Norbert Röttgen,CDU,Politik,2
+SW,Sahra Wagenknecht,Linke,Politik,2
+CS,Constanze Stelzenmüller,Keine,Wissenschaft,1
+CL,Christian Lindner,FDP,Politik,2
+KS,Karl Schlögel,Keine,Wissenschaft,1
+LM,Ljudmyla Melnyk,Keine,Wissenschaft,1
+KD,Kristina Dunz,Keine,Journalismus,1
+AB,Annalena Baerbock,Green,Politik,2
+FT,Frans Timmermans,Keine,Politik,1
+AM,Andrij Melnyk,Keine,Politik,1
+AGL,Alexander Graf Lambsdorff,FDP,Politik,2
+ER,Egon Ramms,Keine,Militaer,1
+RH,Robert Habeck,Green,Politik,2
+CM,Claudia Major,Keine,Politik,1
+KP,Katja Petrowskaja,Keine,Journalismus,1
+RK,Roderich Kiesewetter,CDU,Politik,2
+CLA,Christine Lambrecht,SPD,Politik,2
+SB,Stefanie Babst,Keine,Politik,1
+CH,Christoph Heusgen,Keine,Militaer,1
+MW,Marina Weisband,Keine,Journalismus,1
+OS,Olaf Scholz,SPD,Politik,2
+AW,Anne Will,Keine,Journalismus,2
+EL,Egils Levits,Keine,Politik,2
